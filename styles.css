@@ -1,0 +1,17 @@
+h1 {
+    color: green;
+}
+p {
+    background-color: purple;
+    color: white;
+}
+
+.styleForKokos {
+    color: blue;
+}
+
+#stylesForExample {
+    color: black;
+    background-color: lime;
+}
+
